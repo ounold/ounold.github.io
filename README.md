@@ -1,4 +1,6 @@
 # AI Scientist
+google_analytics: [https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl]
+
 ### Education
 - M.Sc. in Computer Engineering, Faculty of Electronics, Wroclaw University of Technology (1989)
 - M.Sc. in Control Engineering, Faculty of Electronics, Wroclaw University of Technology (1991)
