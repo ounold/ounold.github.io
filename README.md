@@ -20,7 +20,7 @@ google_analytics: [https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl]
 - natural language processing (finite-state formalisms and methods, syntactic parsing techniques)
 
 ## Activities
-- [Leading guest editor of the Special Issue on Grammatical Inference of the Machine Learning journal](https://static.springer.com/sgw/documents/1652630/application/pdf/MACH+CFP+-+Grammatical+Inference.pdf)
+- [Leading guest editor of the Special Issue on Grammatical Inference of the Machine Learning journal](https://grammarlearning.org/mlj-gi-special-issue/)
 - [Member of Topics Board of Applied Sciences Journal](https://www.mdpi.com/journal/applsci/topic_editors)
 - [Co-chair of ICGI 2018](http://icgi2018.pwr.edu.pl/)
 - [Principal Investigator of project no. 2016/21/B/ST6/02158 supported by National Science Centre Poland (NCN)](https://2016-21-b-st6-02158.gitlab.io/)
