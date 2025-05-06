@@ -1,5 +1,5 @@
 
-<img src="/assets/images/image002.png" alt="Your Name" style="width:200px;height:auto;">
+<img src="/assests/images/image002.png" alt="Your Name" style="width:200px;height:auto;">
 
 
 # AI Scientist
