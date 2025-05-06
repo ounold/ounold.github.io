@@ -1,5 +1,5 @@
 ## Menu
-[Links(#links) | [Education](#education) | [Research Interests](#research-interests) | [Activities](#activities) | [Publications](#publications) | [Teaching](#teaching) | [Contact](#contact)
+[Links](#links) | [Education](#education) | [Research Interests](#research-interests) | [Activities](#activities) | [Publications](#publications) | [Teaching](#teaching) | [Contact](#contact)
 
 ## Links
 [google scholar](https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl)\
