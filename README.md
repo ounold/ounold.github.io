@@ -1,4 +1,6 @@
-![Olgierd Unold]``
+
+<img src="{{ site.baseurl }}/assets/images/image002.png" alt="Your Name" style="width:200px;height:auto;">
+
 
 # AI Scientist
 google_analytics: [https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl]
