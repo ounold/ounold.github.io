@@ -2,7 +2,7 @@
 google_analytics: [https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl]
 
 ## Menu
-[Education](#education) | [Research Interests](#researcg-interests) | [Activities](#activities) | [Publications](#publications) | [Teaching](#teaching) | [Contact](#contact)
+[Education](#education) | [Research Interests](#research-interests) | [Activities](#activities) | [Publications](#publications) | [Teaching](#teaching) | [Contact](#contact)
 
 ## Education
 - M.Sc. in Computer Engineering, Faculty of Electronics, Wroclaw University of Technology (1989)
