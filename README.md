@@ -1,5 +1,5 @@
 
-![Logo](images/ounold.png)
+![Logo](assets/images/ounold.png)
 
 <img src="/assets/images/ounold.png" alt="Your Name" style="width:200px;height:auto;">
 
