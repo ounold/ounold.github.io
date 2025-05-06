@@ -5,6 +5,9 @@ a[href="https://github.com/your-username"] {
 </style>
 
 
+<!-- View My GitHub Profile -->
+
+
 # AI Scientist
 google_analytics: [https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl]
 
