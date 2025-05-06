@@ -20,3 +20,7 @@ google_analytics: [https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl]
 ### Publications
 ### Teaching
 ### Contact
+
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
