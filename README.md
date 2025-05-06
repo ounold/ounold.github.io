@@ -1,9 +1,3 @@
-
-![Logo](assets/images/ounold.png)
-
-<img src="/assets/images/ounold.png" alt="Your Name" style="width:200px;height:auto;">
-
-
 # AI Scientist
 google_analytics: [https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl]
 
