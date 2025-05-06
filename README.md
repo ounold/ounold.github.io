@@ -1,5 +1,7 @@
 # AI Scientist
-[scholar google](https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl)
+[google scholar](https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl)
+[orcid](https://orcid.org/0000-0003-4722-176X)
+[dona](https://dona.pwr.edu.pl/szukaj/default.aspx?nrewid=345780)
 
 ## Menu
 [Education](#education) | [Research Interests](#research-interests) | [Activities](#activities) | [Publications](#publications) | [Teaching](#teaching) | [Contact](#contact)
