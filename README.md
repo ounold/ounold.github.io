@@ -141,7 +141,7 @@ google_analytics: [https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl]
 ## Publications
 
 ## Teaching
-[teaching](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/)
+[teaching/dydaktyka website](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/)
 
 ## Contact
 
