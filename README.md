@@ -2,10 +2,17 @@
 google_analytics: [https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl]
 
 ## Menu
-[Link Text](#education)
-[Link Text](#researcg-interests)
-[Link Text](#activities)
-[Link Text](#member-of-international-technical/program/scientific-committees:)
+[Education](#education)
+
+[Research Interests](#researcg-interests)
+
+[Activities](#activities)
+
+[Publications](#publications)
+
+[Teaching](#teaching)
+
+[Contact](#contact)
 
 
 ## Education
@@ -31,7 +38,7 @@ google_analytics: [https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl]
 - [Member of Polish Bioinformatics Society](https://www.ptbi.org.pl/website/home/)
 - [Member of Think Tank of World Federation on Soft Computing](http://www.pa.info.mie-u.ac.jp/WFSC/)
 
-### Member of International Technical/Program/Scientific Committees:
+#### Member of International Technical/Program/Scientific Committees:
 - LOD 2019 The Fifth International Conference on Machine Learning, Optimization, and Data Science, September 10-13, Siena – Tuscany, Italy, 2019
 - ICCCI 2019 The 11th edition of the International Conference on Computational Collective Intelligence, 2019
 - the Federated Conference on Computer Science and Information Systems (FedCSIS 2019),Leipzig, Germany, 1-4 September 2019
