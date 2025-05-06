@@ -1,3 +1,5 @@
+!Prof. Olgierd Unold
+
 # AI Scientist
 google_analytics: [https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl]
 
