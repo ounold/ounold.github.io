@@ -1,3 +1,5 @@
+I am Research Scientist at [Wroclaw University of Science and Technology]([pwr.edu.pl](https://pwr.edu.pl/en/)) in [Department of Computer Engineering](https://dce.pwr.edu.pl/en/)
+
 ## Roadmap
 [Links](#links) | [Education](#education) | [Research Interests](#research-interests) | [Activities](#activities) | [Publications](#publications) | [Teaching](#teaching) | [Contact](#contact)
 
