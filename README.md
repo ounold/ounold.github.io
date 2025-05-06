@@ -134,14 +134,14 @@ google_analytics: [https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl]
 
 ## Contact
 Department of Computer Engineering K30W04D03 \
-Wroclaw University of Science and Technology \  
+Wroclaw University of Science and Technology   
 Wyb. Wyspianskiego 27, 50-370 Wroclaw, Poland
  
 
 room: 324 bld: C-3
  
 Department office : +48 71 320 27 45 \
-phone: + 48 71 320 20 15 \
+phone: + 48 71 320 20 15 
 fax: + 48 71 321 26 77
 
  
