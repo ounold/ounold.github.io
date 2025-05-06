@@ -2,18 +2,7 @@
 google_analytics: [https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl]
 
 ## Menu
-[Education](#education)
-
-[Research Interests](#researcg-interests)
-
-[Activities](#activities)
-
-[Publications](#publications)
-
-[Teaching](#teaching)
-
-[Contact](#contact)
-
+[Education](#education) | [Research Interests](#researcg-interests) | [Activities](#activities) | [Publications](#publications) | [Teaching](#teaching) | [Contact](#contact)
 
 ## Education
 - M.Sc. in Computer Engineering, Faculty of Electronics, Wroclaw University of Technology (1989)
@@ -144,4 +133,20 @@ google_analytics: [https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl]
 [teaching/dydaktyka website](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/)
 
 ## Contact
+Department of Computer Engineering K30W04D03
+Wroclaw University of Science and Technology  
+Wyb. Wyspianskiego 27, 50-370 Wroclaw, Poland
+ 
 
+room: 324 bld: C-3
+ 
+Department office : +48 71 320 27 45
+phone: + 48 71 320 20 15
+fax: + 48 71 321 26 77
+
+ 
+email:  olgierd.unold@pwr.edu.pl 
+http:  ounold.github.io
+ 
+
+mobile phone +48 601 891 680  
