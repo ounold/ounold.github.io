@@ -28,6 +28,10 @@ google_analytics: [https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl]
 - [Member of Think Tank of World Federation on Soft Computing](http://www.pa.info.mie-u.ac.jp/WFSC/)
 
 #### Member of International Technical/Program/Scientific Committees:
+
+<details open>
+  <summary>Click to collapse</summary>
+
 - LOD 2019 The Fifth International Conference on Machine Learning, Optimization, and Data Science, September 10-13, Siena – Tuscany, Italy, 2019
 - ICCCI 2019 The 11th edition of the International Conference on Computational Collective Intelligence, 2019
 - the Federated Conference on Computer Science and Information Systems (FedCSIS 2019),Leipzig, Germany, 1-4 September 2019
@@ -126,6 +130,8 @@ google_analytics: [https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl]
 - Hybrid Intelligent Systems HIS'02, Chile, 2002 
 - Intelligent Processing and Manufacturing of Materials IPMM-2001, Vancouver, Canada, 2001 
 - Online World Conference on Soft Computing in Industrial Applications, 2001-On the Internet, 2001 
+
+</details>
 
 ## Publications
 
