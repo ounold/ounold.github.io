@@ -24,7 +24,7 @@ google_analytics: [https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl]
 - Member of Polish Bioinformatics Society https://www.ptbi.org.pl/website/home/
 - Member of Think Tank of World Federation on Soft Computing http://www.pa.info.mie-u.ac.jp/WFSC/
 
-## Member of International Technical/Program/Scientific Committees:
+#### Member of International Technical/Program/Scientific Committees:
 
 ·      LOD 2019 The Fifth International Conference on Machine Learning, Optimization, and Data Science, September 10-13, Siena – Tuscany, Italy, 2019
 
