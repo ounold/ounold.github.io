@@ -447,15 +447,66 @@ Formalna reprezentacja struktury składniowej zdania języka naturalnego
 ### Laboratorium
 [Instrukcje laboratoryjne (wersja z dnia 1.03.2014, pdf, zip, 0.5MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/laboratorium%20Hurtownie%20danych.zip)
 
-
 ## Inżynieria oprogramowania
+### Wykład
+	
+[Slajdy z wykładu (wersja z dnia 17.01.2023, pdf, zip, 1.5 MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/wyklad%20inzynieria%20oprogramowania.zip)
+
+[Slajdy z wykładu o testowaniu (wersja z dnia 19.01.2010, pdf, 1.5 MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/testy.pdf)
 
 ## Kierowanie projektem programistycznym
+### Wykład
+[Slajdy z wykładu (wersja z dnia 18.01.2017, pdf, zip, 3.5MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/wyklad%20kierowanie%20projektem%20programistycznym.zip)
+
+[Slajdy z wykładu prowadzonego przez pracownika Capgemini (10.03.2010, pdf, zip, 1MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/capgemini.zip)
+
+### Seminarium
+[Przykładowe tematy seminaryjne (pdf, 80kB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/Przykladowe%20tematy%20na%20seminarium%20z%20KPP.pdf)
+
+#### Pomocne dokumenty:
+[Slajdy z seminarium Sztuka prezentacja autor S. Jędrysiak (pdf, zip, 800kB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/seminarium%20sztuka%20prezentacji.zip)
+
+[27 błędów (pdf, 525kB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/27%20bledow.pdf)
 
 ## Seminarium dyplomowe inżynierskie i magisterskie
+[Zawartość prezentacji (pdf, 14kB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/Zawartosc%20prezentacji%20dyplomowej.pdf)
+
+#### Pomocne dokumenty:
+[Slajdy z seminarium Sztuka prezentacja autor S. Jędrysiak (pdf, zip, 800kB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/seminarium%20sztuka%20prezentacji.zip)
+
+[27 błędów (pdf, 525kB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/27%20bledow.pdf)
 
 ## Inteligencja Obliczeniowa i jej Zastosowania
+[Slajdy z wykładu J.Magott 1 (wersja z dnia 9.03.2021, pdf, zip, 1.2MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/J.Magott%20W1.zip)
+
+[Slajdy z wykładu J.Magott 2 (wersja z dnia 26.02.2018, pdf, zip, 0.8MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/J.Magott%20W2.zip)
+
+[Slajdy z wykładu J.Magott 3 (wersja z dnia 20.03.2021 pdf, zip, 1.3MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/J.Magott%20W3.zip)
+
+[Slajdy z wykładu J.Magott 4 (wersja z dnia 22.03.2023, pdf, zip, 2.5MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/J.Magott%20W4.zip)
+
+[Slajdy z wykładu J.Magott 5 (wersja z dnia 01.04.2023, pdf, zip, 2.5MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/J.Magott%20W5.zip)
+
+ 
+
+[Slajdy z wykładu O.Unold 1 (wersja z dnia 8.06.2017, pdf, zip, 3.0MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/O.Unold%20wyklad%20inteligencja%20obliczeniowa.zip)
+
+[Slajdy z wykładu O.Unold 2 (wersja z dnia 8.06.2017, pdf, zip, 1.4MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/O.Unold%20Wyklad%20Sztuczne%20Systemy%20Immunologiczne.zip)
+
+ 
+
+[Slajdy z wykładu R.Zdunek 1 (wersja z dnia 8.06.2017, pdf, zip, 6.4MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/R.Zdunek%20W1.zip)
+
+[Slajdy z wykładu R.Zdunek 2 (wersja z dnia 8.06.2017, pdf, zip, 5.7MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/R.Zdunek%20W2.zip)
+
+[Slajdy z wykładu R.Zdunek 3 (wersja z dnia 8.06.2017, pdf, zip, 17.6MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/R.Zdunek%20W3.zip)
+
+ 
+
+[Instrukcja laboratoryjna O. Unold (wersja z dnia 6.05.2020, pdf, zip, 0.5MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/Instrukcja%20laboratoryjna%20IOiZ.zip)
 
 ## Kierunki rozwoju sztucznej inteligencji
+[Slajdy z wykładu (wersja z dnia 05.03.2025, pdf, zip, 6,5MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/KierunkiAI.zip)
 
 ## Introduction to Artificial Intelligence
+[Lecture slides (version 29.01.2024, pdf, zip, 3.5MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/Introduction%20to%20AI%20O%20Unold%20slajdy.zip)
