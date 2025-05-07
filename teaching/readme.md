@@ -1,13 +1,28 @@
-# Prof. dr hab. inż. Olgierd Unold
-
 ## Roadmap
 [Strona domowa](https://ounold.github.io/) | [Kontakt](#kontakt) | [Konsultacje i zajęcia](#konsultacje-i-zajęcia) | [Prace dyplomowe (magisterskie i inżynierskie)](#prace-dyplomowe-(magisterskie-i-inżynierskie)) | [Hurtownie danych i Big data](#hurtownie-danych-i-big-data)| [Inżynieria oprogramowania](#inżynieria-oprogramowania) | [Kierowanie projektem programistycznym](#kierowanie-projektem-programistycznym) | [Seminarium dyplomowe inżynierskie i magisterskie](#seminarium-dyplomowe-inżynierskie-i-magisterskie) | [Inteligencja Obliczeniowa i jej zastosowania](#inteligencja-obliczeniowa-iijej-zastosowania) | [Kierunki rozwoju sztucznej inteligencji](#kierunki-rozwoju-sztucznej-inteligencji) | [Introduction to Artificial Intelligence](#introduction-to-artificial-intelligence)
 
-## Strona domowa
-
 ## Kontakt
+Katedra Informatyki Technicznej (K30W04D03)\
+Politechnika Wrocławska 
+Wyb. Wyspiańskiego 27, 50-370 Wrocław 
 
+pokój: 324 budynek: C-3\
+ul. Janiszewskiego 11/17
+
+
+tel. do sekretariatu: (71) 320 27 45\
+tel.: (71) 320 20 15
+fax: (71) 321 26 77
+
+email: olgierd.unold@pwr.edu.pl 
+http:  https://ounold.github.io/
+
+ 
 ## Konsultacje i zajęcia
+### Zajęcia różne :) 
+### Konsultacje wt 11-13, czw 11-13
+
+Można również umówić się na spotkanie w innym terminie telefonicznie lub drogą elektroniczną.
 
 ## Prace dyplomowe (magisterskie i inżynierskie)  
 ### Tematyka
@@ -426,6 +441,12 @@ Zastosowanie logiki rozmytej w systemach ekspertowych
 Formalna reprezentacja struktury składniowej zdania języka naturalnego
 
 ## Hurtownie danych i Big data
+### Wykład
+[Slajdy z wykładu (wersja z dnia 4.03.2024, pdf, zip, 4.5MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/wyklad%20hurtownie%20danych.zip)
+
+### Laboratorium
+[Instrukcje laboratoryjne (wersja z dnia 1.03.2014, pdf, zip, 0.5MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/laboratorium%20Hurtownie%20danych.zip)
+
 
 ## Inżynieria oprogramowania
 
