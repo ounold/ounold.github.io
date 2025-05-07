@@ -131,324 +131,167 @@ Implementacja i analiza algorytmów rozwiązywania kostki Rubika w języku Pytho
 99. Mateusz Adamczak (2016)
 System na platformie Raspberry Pi służący do monitorowania i prognozowania wybranych parametrów komór klimatycznych
 
- 
-
 98. Piotr Frąszczak (2016)
-
 Przetwarzanie danych masywnych z wykorzystaniem paradygmatu MapReduce
 
- 
-
 97. Mateusz Jerzyk  (2016) praca inżynierska
-
 Analiza danych masywnych na przykładzie portalu społecznościowego
 
- 
-
 96. Krzysztof Gałka (2015) praca inżynierska
-
 Równoległy algorytm k-średnich – projekt i implementacja
 
- 
-
 95. Radosław Tarnawski (2015) praca inżynierska
-
 Równoległy algorytm dla problemu komiwojażera - projekt i implementacja
 
- 
-
 94. Wojciech Andruszczyszyn (2015)
-
 Nowe typy klasyfikatorow w modelu XCSF
-
- 
 
 93. Paweł Krysiak (2015)
 Metryki jakości kodu w MATLABie
 
- 
-
 92. Erwin Brzycki (2015)
-
 Planowanie zadań w środowisku sieciowym
 
- 
-
 91. Anna Koptewicz (2015)
-
 Nowe mechanizmy uczenia w modelu fGCS
 
- 
-
 90. Łukasz Szubart (2015)
-
 Wysokowydajne algorytmy analizy skupień w chmurze obliczeniowej
 
- 
-
 89. Marcin Mianowski (2015)
-
 Model rACS w ciągłym środowisku wielokrokowym
 
- 
-
 88. Tomasz Kiszka (2015) projekt inżynierski
-
 Implementacja immunologicznego systemu indukcji reguł rozmytych
 
- 
-
 87. Grzegorz Taramina (2014)
-
 Zastosowanie wybranych metod uczenia maszynowego w identyfikacji języka
 
- 
-
 86. Daniel Nahrebecki (2014)
-
 Wybrane metody identyfikacji wirtualnych społeczności
 
- 
-
 85. Grzegorz Pasieka (2014)
-
 Nowe mechanizmy adaptacji w modelu sGCS
 
- 
-
 84. Marcin Szymczyk (2014)
-
 Optymalizacja zarzadzania testowaniem napraw defektów
 
- 
-
 83. Ngoc Trung Nguyen (2014)
-
 Automatyczne ustalanie priorytetów testów funkcjonalnych
 
- 
-
 82. Łukasz Culer (2014)
-
 Analiza subiektywizmu i zabarwienia emocjonalnego wypowiedzi z portali społecznościowych
 
- 
-
 81. Andrzej Kiełbasa (2014) projekt inżynierski
-
 Predykcja defektów w oprogramowaniu z zastosowaniem analizy skupień
 
- 
-
 80. Agnieszka Szymańska (2014)
-
 Automatyczna korekcja i klasyfikacja tematyczna wypowiedzi z portali społecznościowych dla zagadnienia analizy sentymentu
 
- 
-
 79. Bartosz Kupisz (2014)
-
 Systemy rekomendacji w architekturze równoległej
 
- 
-
 78. Marcin Chwedziak (2013)
-
 System prezentacji w czasie rzeczywistym danych analitycznych sklepu internetowego z wykorzystaniem narzędzia Piwik
 
- 
-
 77. Wojciech Andruszczyszyn (2013) projekt inżynierski
-
 Implementacja uczącego się systemu klasyfikującego XCSF
 
- 
-
 76. Marcin Mianowski (2013) projekt inżynierski
-
 Implementacja uczącego się systemu klasyfikującego rACS
 
- 
-
 75. Tadeusz Tagowski (2013)
-
 Metody zrównoleglania algorytmów skupień
 
- 
-
 74. Marcin Szymczak (2012) projekt inżynierski
-
 Predykcja defektów w oprogramowaniu z zastosowaniem eksploracji danych
 
- 
-
 73. Michał Czapowski (2012) projekt inżynierski
-
 Implementacja antycypacyjnego uczącego się systemu klasyfikującego
 
- 
-
 72. Michał Błędowski (2012) projekt inżynierski
-
 Implementacja uczącego się systemu klasyfikującego GCS
 
- 
-
 71. Grzegorz Pasieka (2012) projekt inżynierski
-
 Implementacja uczącego się systemu klasyfikującego SGCS
 
- 
-
 70. Jan Grzegrzółka (2012)
-
 Metody predykcji struktur amyloidowych w białkach
 
- 
-
 69. Łukasz Brygała (2012)
-
 Algorytmy tworzenia zespołu klasyfikatorów
 
- 
-
 68. Łukasz Papierz (2012)
-
 Algorytmy predykcji decyzji hodowlanych w wysokowymiarowych danych populacyjnych
 
- 
-
 67. Aleksander Rodak (2011)
-
 Wykorzystanie wielotorowej transformaty falkowej do eliminacji artefaktów w wynikach pomiarowych mikroskopii bliskiego pola
 
- 
-
 66. Maciej Skrzypczyk (2011)
-
 LibGCS - biblioteka dla systemu xGCS 
 
- 
-
 65. Mateusz Kmieciński (2011)
-
 Predykcja wybranych struktur bioinformatycznych z wykorzystaniem gramatyki rozmytej 
 
- 
-
 64. Piotr Skrzypczak (2011)
-
 Równoległe metody parsowania gramatyk bezkontekstowych 
 
- 
-
 63. Wojciech Jamrozik (2011)
-
 Zastosowanie immunologicznej indukcji reguł rozmytych w eksploracji danych 
-
- 
 
 62. Jacek Orłanowski (2011)
 Uczenie języka naturalnego z wykorzystaniem obrazów 2D 
 
- 
-
 61. Joanna Kaczmar (2011)
 Komputerowy słownik polskiego języka migowego
 
- 
-
 60. Jerzy Stanisławski (2011)
-
 Maszynowe metody predykcji struktur amyloidowych w białkach 
 
- 
-
 59. Jakub Kaczorowski (2011)
-
 Zastosowanie gramatyk rozmytych w analizie wybranych sekwencji bioinformatycznych
 
- 
-
 58. Patryk Szymczak (2010)
-
 Opracowanie modelu systemu GCS w środowisku oliczeń numerycznych
 
- 
-
 57. Waldemar Rokita (2010)
-
 Opracowanie modelu systemu rACS w środowisku oliczeń numerycznych
 
- 
-
 56. Tomasz Poszwa (2010)
-
 Opracowanie modelu systemu nonCNF-GCS w środowisku oliczeń numerycznych
 
- 
-
 55. Mirosław Rumijowski (2010)
-
 Opracowanie modelu systemu fCFG w środowisku oliczeń numerycznych
 
- 
-
 54. Jakub Sudorowski (2010)
-
 Opracowanie modelu systemu sGCS w środowisku oliczeń numerycznych
 
- 
-
 53. Tomasz Więcławek (2009)
-
 Analiza internetowych sieci społecznych za pomocą eksploracyjnej analizy danych
 
- 
-
 52. Wojciech Jóźków  (2009)
-
 Ewolucyjna indukcja automatu ze stosami dla potrzeb eksploracyjnej analizy danych  
 
- 
-
 51. Jakub Korda  (2009)
-
 Redukcja wymiarowości zbiorów uczących w problemach klasyfikacji 
 
- 
-
 50. Przemysław Kozieł  (2009)
-
 Zastosowanie metod uczenia maszynowego podczas wyszukiwania informacji w Internecie
 
- 
-
 49. Jakub Antosik  (2009)
-
 Zastosowanie podejścia immunologicznego w eksploracyjnej analizie danych
 
- 
-
 48. Konrad Rymczak  (2009)
-
 Zastosowanie wybranych metod uczenia maszynowego w rozpoznawaniu regionów promotorowych
-
- 
 
 47. Marcin Kępa (2008)
 Stochastyczny model GCS
 
 46. Małgorzata Rybka (2008)
-Zespołowy uczący sie system klasyfikujący w zadaniach eksploracji
-danych
-
- 
+Zespołowy uczący sie system klasyfikujący w zadaniach eksploracji danych
 
 45. Piotr Pietroń (2008)
 Ewolucja języka w sztucznym świecie koewolujących organizmów
-
- 
 
 44. Sylwester Jędrysiak (2008)
 Koewolucyjny równoległy uczący się system klasyfikujący
@@ -456,252 +299,132 @@ Koewolucyjny równoległy uczący się system klasyfikujący
 43. Michał Szatkowski (2008)
 Zastosowanie modelu GCS w bioinformatyce
 
- 
-
 42. Jakub Sikora (2008)
 Antycypacyjny uczący się system klasyfikujący w zadaniach eksploracji danych
 
 41. Maciej Mięczakowski (2008)
-
 Model ACS w zadaniach eksploracji danych rzeczywistoliczbowych
-
- 
 
 40. Edward Mężyk (2008)
 Zastosowanie inteligentnych metod obliczeniowych w modelowaniu treningu sportowego
 
- 
-
 39. Marcin Jaworski (2007)
-
 Metody Data Mining w bioinformatyce
 
- 
-
 38. Krzysztof Tuszyński  (2007)
-
 Zastosowanie uczących się systemów klasyfikujących w analizie danych
 
- 
-
 37. Łukasz Mierzwiński  (2007)
-
 Zastosowanie systemu GCS w eksploracji danych
 
- 
-
 36. Adam Kalina  (2007)
-
 Sztuczne Systemy Immunologiczne w zadaniach eksploracji danych
 
- 
-
 35. Paweł Niedźwiecki  (2007)
-
 Dobór metody Data Mining  do zadania
 
- 
-
 34. Piotr Karpik  (2007)
-
 Możliwości zastosowania Sztucznych Systemów Immunologicznych w indukcji gramatyki
 
- 
-
 33. Łukasz Kiciński  (2007)
-
 Indukcja automatów ze stosem
 
- 
-
 32. Tomasz Langner  (2007)
-
 Zastosowanie programowania genetycznego w ewolucyjnej indukcji gramatyk bezkontestowych
-
- 
 
 31. Tomasz Kisielewski (2006)
 Zastosowanie inteligentnych obliczen w grach komputerowych
 
- 
-
 30. Piotr Żłobiński (2006)
-
 Zastosowanie systemu klasyfikującego w bioinformatyce
 
- 
-
 29. Michał Sasiński (2006)
-
 Koewolucyjny system klasyfikujący
 
- 
-
 28. Paweł Trociński (2005)
-
 Zastosowanie metod ewolucyjnych w zawodach RoboCup
 
- 
-
 27. Maciej Sętkowski (2005)
-
 Automatyczna konstrukcja parsera gramatyki bezkontekstowej z zastosowaniem standardu XML
 
- 
-
 26. Michał Jarosz (2005)
-
 Metody przetwarzania języka naturalnego w bioinformatyce
 
- 
-
 25. Tomasz Perek (2005)
-
 Adaptacyjna gramatyka języka naturalnego
 
- 
-
 24. Krzysztof Rolak (2005)
-
 Ewolucyjne uczenie gramatyki bezkontekstowej
 
- 
-
 23. Witold Dyrka (2005)
-
 Rozpoznawanie wzorców proteinowych z zastosowaniem metod maszynowego uczenia
 
- 
-
 22. Krzysztof Kącki (2005)
-
 Zastosowanie podejścia automatowego w bioinformatyce
 
- 
-
 21. Maciej Troć (2004)
-
 Evo-art. Model i aplikacja
 
- 
-
 20. Damian Wadowski (2004)
-
 Zastosowanie ewolucyjnie modyfikowanej maszyny Turinga w rozpoznawaniu biosekwencji
 
- 
-
 19. Janusz Mączka (2004)
-
 Zastosowanie wnioskowania gramatycznego w analizie biologicznych sekwencji danych
 
- 
-
 18. Dariusz Kozyra (2004)
-
 Wirtualny ekosystem. Model i aplikacja
 
- 
-
 17. Łukasz Cielecki (2004)
-
 Zastosowanie systemów XCS w ewolucyjnej indukcji gramatyk bezkontekstowych
 
- 
-
 16. Adam Bistuła (2003)
-
 Zastosowanie metod ewolucyjnych w analizie biologicznych sekwencji danych
 
- 
-
 15. Marek Janukowicz (2003)
-
 Wizualizacja genetycznie przetwarzanych L-systemów
 
- 
-
 14. Daniel Kamiński (2002)
-
 System autentyfikacji użytkownika z wykorzystaniem podpisu cyfrowego
 
- 
-
 13. Krzysztof Habowski (2002)
-
 Metody uwierzytelniania użytkownika w intranecie
 
- 
-
 12. Adam Raś (2002)
-
 Integracja Lotus Notes/Domin z relacyjnymi systemami bazodanowymi na przykładzie systemu Workflow
 
- 
-
 11. Paweł Cynkar (2002)
-
 Obiektowe projektowanie oprogramowania dla potrzeb internetowego systemu aukcyjnego
 
- 
-
 10. Marcin Dobiaszewski (2002)
-
 Zastosowanie metody automatowej do analizy języka polskiego
 
- 
-
 9. Jakub Zysnarski (2001)
-
 Implementacja parsera języka naturalnego w Icon'ie
 
- 
-
 8. Łukasz Dudzik (2001)
-
 Realizacja dziedzinowego systemu doradczego za pomoca pakietu PCShell firmy Aitech
 
- 
-
 7. Konrad Aleksandrowicz (2001)
-
 Internetowy system obsługi dziekanatu
 
- 
-
 6. Dariusz Hoszowski (2001)
-
 Dostęp do relacyjnych baz danych w środowisku www
 
- 
-
 5. Grzegorz Dąbrowski (2001)
-
 Zastosowanie systemów klasyfikujących do przetwarzania języka naturalnego
 
- 
-
 4. Grzegorz Dulewicz (2001)
-
 Ewolucyjny analizator języka naturalnego
 
- 
-
 3. Michał Chrobak (1999)
-
 Zastosowanie algorytmów genetycznych w analizie syntaktycznej języka naturalnego
 
- 
-
 2. Maciej Kulawik (1998)
-
 Zastosowanie logiki rozmytej w systemach ekspertowych
 
- 
-
 1. Arkadiusz Lichwa (1996)
-
 Formalna reprezentacja struktury składniowej zdania języka naturalnego
+
 ## Hurtownie danych i Big data
 
 ## Inżynieria oprogramowania
