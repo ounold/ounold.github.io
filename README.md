@@ -287,7 +287,7 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 - Unold O. (1992), Model formalny automatycznej dekompozycji zadań języka naturalnego na elementy bazy wiedzy dla systemu z bazowaniem wiedzy, [in:] Sztuczna inteligencja (cybernetyka-inteligencja-rozwój). II Ogólnopolska Konferencja CIR '92. Cybernetics '92. PTC Zarząd Główny, Warszawa-Siedlce, 55–63. (in Polish)
 
 ## Teaching
-[teaching/dydaktyka website](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/)
+[teaching/dydaktyka website](ounold.github.io/teaching/readme.md)
 
 ## Contact
 Department of Computer Engineering K30W04D03 \
