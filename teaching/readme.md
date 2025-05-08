@@ -440,6 +440,8 @@ Zastosowanie logiki rozmytej w systemach ekspertowych
 1. Arkadiusz Lichwa (1996)
 Formalna reprezentacja struktury składniowej zdania języka naturalnego
 
+{: reversed="reversed"}
+
 ## Hurtownie danych i Big data
 ### Wykład
 [Slajdy z wykładu (wersja z dnia 4.03.2024, pdf, zip, 4.5MB)](http://olgierd.unold.staff.iiar.pwr.wroc.pl/dydaktyka/wyklad%20hurtownie%20danych.zip)
