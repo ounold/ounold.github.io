@@ -35,7 +35,7 @@ Można również umówić się na spotkanie w innym terminie telefonicznie lub d
 - ...
 - 
 ### Prace zrealizowane
-135. Mateusz Łabędzki (2022)
+1. Mateusz Łabędzki (2022)
 Inferencja reguł systemu Lindenmayera na podstawie obrazu
 
 134. Tomasz Adamczyk (2022)
