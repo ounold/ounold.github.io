@@ -1,7 +1,7 @@
 I am a research scientist at [Wroclaw University of Science and Technology](https://pwr.edu.pl/en/) in the [Department of Computer Engineering](https://dce.pwr.edu.pl/en/).
 
 ## Roadmap
-[Links](#links) | [Education](#education) | [Research Interests](#research-interests) | [Activities](#activities) | [Publications](#publications) | [Teaching](#teaching) | [Contact](#contact)
+[Links](#links) | [Education](#education) | [Research Interests](#research-interests) | [Activities](#activities) | [Publications](#publications) | [Teaching](#teaching) | [Misc](#misc) | [Contact](#contact)
 
 ## Links
 [google scholar](https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl)\
