@@ -289,6 +289,9 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 ## Teaching
 [teaching/dydaktyka website](/teaching/)
 
+## Misc
+[Interview on Trwam TV on AI, 8.06.2024, in Polish](https://www.radiomaryja.pl/multimedia/rozmowy-niedokonczone-jest-bog-sztuczna-inteligencja-pomoc-czy-przeszkoda-w-wierze-cz-i/)
+
 ## Contact
 Department of Computer Engineering K30W04D03 \
 Wroclaw University of Science and Technology   
