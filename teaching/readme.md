@@ -9,7 +9,6 @@ Wyb. Wyspiańskiego 27, 50-370 Wrocław
 pokój: 324 budynek: C-3\
 ul. Janiszewskiego 11/17
 
-
 tel. do sekretariatu: (71) 320 27 45\
 tel.: (71) 320 20 15
 fax: (71) 321 26 77
@@ -26,14 +25,15 @@ Można również umówić się na spotkanie w innym terminie telefonicznie lub d
 
 ## Prace dyplomowe (magisterskie i inżynierskie)  
 ### Tematyka
-- uczące się systemy klasyfikujące
+- uczące się systemy klasyfikujące (ang. learning classifier systems)
+- zastosowania głębokiego uczenia 
 - wnioskowanie gramatyczne (czyli uczenie się automatów i gramatyk)
 - bioinformatyka
 - data mining, Big data
 - uczenie maszynowe
 - analiza danych z mediów społecznościowych
 - ...
-- 
+
 ### Prace zrealizowane
 1. Mateusz Łabędzki (2022)
 Inferencja reguł systemu Lindenmayera na podstawie obrazu
@@ -439,8 +439,6 @@ Zastosowanie logiki rozmytej w systemach ekspertowych
 
 1. Arkadiusz Lichwa (1996)
 Formalna reprezentacja struktury składniowej zdania języka naturalnego
-
-{: reversed="reversed"}
 
 ## Hurtownie danych i Big data
 ### Wykład
