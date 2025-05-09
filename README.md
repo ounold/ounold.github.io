@@ -134,7 +134,7 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 
 ## Publications
 ### Books
-- Unold O. Ewolucyjne wnioskowanie gramatyczne (Evolutionary grammatical inference), Oficyna Wydawnicza Politechniki Wroclawskiej, Wroclaw, 2006 (in Polish)
+- [Unold O. Ewolucyjne wnioskowanie gramatyczne (Evolutionary grammatical inference), Oficyna Wydawnicza Politechniki Wroclawskiej, Wroclaw, 2006 (in Polish)](ewg/)
 
 ### ISI Master Journals
 - Wieczorek W., Unold O., Strąk L. (2020), Parsing expression grammars and their induction algorithm. Applied Sciences. vol. 10, nr 23, art. 8747, 1-16.
