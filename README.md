@@ -38,7 +38,8 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 - [Principal Investigator of project no. 2016/21/B/ST6/02158 supported by National Science Centre Poland (NCN)](https://2016-21-b-st6-02158.gitlab.io/)
 - [Member of Polish Bioinformatics Society](https://www.ptbi.org.pl/website/home/)
 - [Member of Think Tank of World Federation on Soft Computing](http://www.pa.info.mie-u.ac.jp/WFSC/)
-\
+
+
 #### Member of International Technical/Program/Scientific Committees:
 - LOD 2019 The Fifth International Conference on Machine Learning, Optimization, and Data Science, September 10-13, Siena – Tuscany, Italy, 2019\
 - ICCCI 2019 The 11th edition of the International Conference on Computational Collective Intelligence, 2019
