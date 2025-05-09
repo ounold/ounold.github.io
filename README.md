@@ -41,7 +41,7 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 
 
 #### Member of International Technical/Program/Scientific Committees:
-- LOD 2019 The Fifth International Conference on Machine Learning, Optimization, and Data Science, September 10-13, Siena – Tuscany, Italy, 2019\
+- LOD 2019 The Fifth International Conference on Machine Learning, Optimization, and Data Science, September 10-13, Siena – Tuscany, Italy, 2019
 - ICCCI 2019 The 11th edition of the International Conference on Computational Collective Intelligence, 2019
 - the Federated Conference on Computer Science and Information Systems (FedCSIS 2019),Leipzig, Germany, 1-4 September 2019
 - the International Conference on Grammar Inference (ICGI) 2018,Wrocław, Polska, 2018
