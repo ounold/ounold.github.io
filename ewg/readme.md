@@ -232,6 +232,7 @@ Spis tabel .....................................................................
 
 Streszczenie w języku angielskim ....................................................................................... 227
 ## PDF
+[Książka w Dolnośląskiej Bibliotece Cyfrowej (pdf, 3.1 MB, 233 stron)](https://dlibra.kdm.wcss.pl/publication/1331)
 
 ## Errata
 [Errata](files/Errata_O_Unold.pdf)
