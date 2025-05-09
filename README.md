@@ -28,7 +28,7 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 - Dr. Wojciech Dobrowolski. Application of real-time machine learning for diagnostics and fault location in relay stations (BTS) (2025) 
 - Dr. Maciej Troć. Mechanisms of adaptation in learning classifier systems (2024)
 - Dr. Zbigniew Pliszka. New methods of searching the binary vector space in solving selected optimization problems (2022)
-- Dr. Norbert Kozłowski. Real-valued Anticipatory Learning Classifier System (2020)
+- Dr. Norbert Kozłowski. Real-valued anticipatory learning classifier system (2020)
 - Dr. Łukasz Cielecki. Application of an evolutionary induction system of grammar in the classification of objects (2014)
 
 ## Activities
