@@ -233,4 +233,5 @@ Spis tabel .....................................................................
 Streszczenie w języku angielskim ....................................................................................... 227
 ## PDF
 
-## [Errata](files/Errata_O_Unold.pdf)
+## Errata
+[Errata](files/Errata_O_Unold.pdf)
