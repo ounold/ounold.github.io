@@ -4,7 +4,7 @@
 [Strona domowa](https://ounold.github.io/) | [Okładka](#okładka) | [Streszczenie](#streszczenie) | [Abstract](#abstract) | [Spis treści](#spis-treści) | [PDF](#pdf) | [Errata](#errata)
 
 ## Okładka
-<img src="files/ewg_unold.jpg" alt="Alt Text" style="width:60%; height:auto;">
+<img src="files/ewg_unold.jpg" alt="Ewolucyjne wnioskowanie gramatyczne" style="width:60%; height:auto;">
 
 ## Streszczenie
 W monografii została podjęta ważna i płodna zarówno teoretycznie, jak i praktycznie tematyka wnioskowania gramatycznego (maszynowego uczenia gramatyk). Zaproponowano nowy model ewolucyjnego wnioskowania gramatycznego, którego zasadniczym przeznaczeniem jest indukcja gramatyki bezkontekstowej. Konstrukcja nowego modelu ewolucyjnego wykorzystuje mechanizm uczenia stosowany w uczących się systemach klasyfikujących. W modelu klasyfikatorami są produkcje gramatyki bezkontekstowej podane w postaci normalnej Chomskyego, natomiast otoczeniem, do którego adaptuje się system, jest zbiór uczący składający się z przykładowych zdań opatrzonych etykietą, określającą przynależność lub brak przynależności zdania do poszukiwanego języka. Celem uczenia jest poprawna klasyfikacja zdań uczących. Ponieważ zbiór klasyfikatorów tworzy zestaw produkcji gramatyki, to poprawna klasyfikacja etykietowanych zdań oznacza wyindukowanie poszukiwanej gramatyki języka. Model śledzi produkcje użyte podczas analizy zbioru uczącego i po jej zakończeniu oblicza funkcję dopasowania każdej produkcji. Nowe produkcje gramatyki są odkrywane podczas procesu indukcji przez mechanizm pokrycia oraz algorytm genetyczny. W pracy można wyodrębnić dwie części.
