@@ -145,6 +145,15 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 - [Unold O. Ewolucyjne wnioskowanie gramatyczne (Evolutionary grammatical inference), Oficyna Wydawnicza Politechniki Wroclawskiej, Wroclaw, 2006 (in Polish)](ewg/)
 
 ### ISI Master Journals
+- Dobrowolski W., Iwach-Kowalski K., Nikodem M. , Unold O. (2024),Log-based fault localization with unsupervised log segmentation. Applied Sciences. vol. 14, nr 18, art. 8421, s. 1-14.
+- Dobrowolski W., Libura M., Nikodem N., Unold O. (2024), Unsupervised log sequence segmentation. IEEE Access. vol. 12, s. 79003-79013.
+- Łabędzki M., Unold O. (2023), D0L-System inference from a single sequence with a genetic algorithm. Information. vol. 14, nr 6, art. 343, s. 1-16.
+- Dobrowolski W., Nikodem M., Unold O. (2023), Software failure log analysis for engineers - review. Electronics. vol. 12, nr 10, art. 2260, s. 1-21.
+- Śmierzchała Ł., Kozłowski N., Unold O. (2023), Anticipatory classifier system with episode-based experience replay. IEEE Access. vol. 11, s. 41190-41204.
+- Kozłowski N., Unold O. (2022), Internalizing knowledge for Anticipatory Classifier Systems in discretized real-valued environments. IEEE Access. vol. 10, s. 33816-33828.
+- Kozłowski N., Unold O. (2021), Anticipatory classifier system with average reward criterion in discretized multi-step environments. Applied Sciences. vol. 16, nr 3, art. 1098, s. 1-16.
+- Gabor M., Wieczorek W., Unold O. (2021), Split-based algorithm for weighted context-free grammar induction. Applied Sciences. vol. 11, nr 3, art. 1030, s. 1-13.
+- Wieczorek W. Jastrząb T., Unold O. (2020), Answer set programming for regular inference. Applied Sciences. vol. 10, nr 21, art. 7700, s. 1-18.
 - Wieczorek W., Unold O., Strąk L. (2020), Parsing expression grammars and their induction algorithm. Applied Sciences. vol. 10, nr 23, art. 8747, 1-16.
 - Wieczorek W., Jastrząb T., Unold O. (2020), Answer set programming for regular inference. Applied Sciences. vol. 10, nr 21, art. 7700, 1-18.
 - Jureczko M., Ngoc Trung Nguyen, Szymczyk M. and Unold O. (2019), Towards implementing defect prediction in the software development process, Journal of Intelligent & Fuzzy Systems. vol. 37, nr 6, 7223-7238.
