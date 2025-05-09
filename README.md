@@ -1,7 +1,7 @@
 I am a research scientist at [Wroclaw University of Science and Technology](https://pwr.edu.pl/en/) in the [Department of Computer Engineering](https://dce.pwr.edu.pl/en/).
 
 ## Roadmap
-[Links](#links) | [Education](#education) | [Research Interests](#research-interests) | [Activities](#activities) | [Publications](#publications) | [Teaching](#teaching) | [Misc](#misc) | [Contact](#contact)
+[Links](#links) | [Education](#education) | [Research Interests](#research-interests) | [PhD Students](#phd-students) | [Activities](#activities) | [Publications](#publications) | [Teaching](#teaching) | [Misc](#misc) | [Contact](#contact)
 
 ## Links
 [google scholar](https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl)\
@@ -24,6 +24,13 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 - DNA Computing
 - natural language processing (finite-state formalisms and methods, syntactic parsing techniques)
 
+## PhD Students
+- Dr. Wojciech Dobrowolski. Application of real-time machine learning for diagnostics and fault location in relay stations (BTS) (2025) 
+- Dr. Maciej Troć. Mechanisms of adaptation in learning classifier systems (2024)
+- Dr. Zbigniew Pliszka. New methods of searching the binary vector space in solving selected optimization problems (2022)
+- Dr. Norbert Kozłowski. Real-valued Anticipatory Learning Classifier System (2020)
+- Dr. Łukasz Cielecki. Application of an evolutionary induction system of grammar in the classification of objects (2014)
+
 ## Activities
 - [Leading guest editor of the Special Issue on Grammatical Inference of the Machine Learning journal](https://grammarlearning.org/mlj-gi-special-issue/)
 - [Member of Topics Board of Applied Sciences Journal](https://www.mdpi.com/journal/applsci/topic_editors)
@@ -31,7 +38,7 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 - [Principal Investigator of project no. 2016/21/B/ST6/02158 supported by National Science Centre Poland (NCN)](https://2016-21-b-st6-02158.gitlab.io/)
 - [Member of Polish Bioinformatics Society](https://www.ptbi.org.pl/website/home/)
 - [Member of Think Tank of World Federation on Soft Computing](http://www.pa.info.mie-u.ac.jp/WFSC/)
-
+\
 #### Member of International Technical/Program/Scientific Committees:
 - LOD 2019 The Fifth International Conference on Machine Learning, Optimization, and Data Science, September 10-13, Siena – Tuscany, Italy, 2019\
 - ICCCI 2019 The 11th edition of the International Conference on Computational Collective Intelligence, 2019
