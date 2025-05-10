@@ -39,13 +39,10 @@ Można również umówić się na spotkanie w innym terminie telefonicznie lub d
 ### Prace zrealizowane
 1. Mateusz Łabędzki (2022)
 Inferencja reguł systemu Lindenmayera na podstawie obrazu
-
 134. Tomasz Adamczyk (2022)
 Automatyczne streszczanie tekstu z użyciem uczenia głębokiego i uczenia ze wzmocnieniem
-
 133. Michał Kordasz (2022)
 Nowe mechanizmy uczenia w rozmytym klasyfikującym systemie antycypacyjnym
-
 132. Łukasz Śmierzchała (2022)
 Rozszerzenie klasyfikującego modelu antycypacyjnego o mechanizm experience replay
 
