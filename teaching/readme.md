@@ -37,7 +37,7 @@ Można również umówić się na spotkanie w innym terminie telefonicznie lub d
 - ...
 
 ### Prace zrealizowane
-0. Michał Choczaj (2024)
+1. Michał Choczaj (2024)
 Kompaktowanie reguł w klasyfikującym modelu antycypacyjnym
 
 Tomasz Górniak (2024)
