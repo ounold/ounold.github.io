@@ -37,12 +37,42 @@ Można również umówić się na spotkanie w innym terminie telefonicznie lub d
 - ...
 
 ### Prace zrealizowane
+0. Michał Choczaj (2024)
+Kompaktowanie reguł w klasyfikującym modelu antycypacyjnym
+
+Tomasz Górniak (2024)
+Zastosowanie uczenia ze wzmocnieniem w problemie komiwojażera
+
+Łukasz Babecki (2024)
+Modyfikacje mechanizmu autoenkodera w klasyfikującym modelu antycypacyjnym
+
+Mikołaj Najda (2024)
+Using machine learning and XAI (Explainable Artificial Intelligence) for voice analysis in medical applications
+
+Stanisław Franczyk (2023)
+Rozszerzenie klasyfikującego modelu antycypacyjnego o algorytm rozwiązujący problem rzadkich nagród
+
+Andrii Soniadlo (2023)
+Uczący się system klasyfikujący z autoenkoderem
+
+Michał Skwarzyński (2023)
+Rozszerzenie klasyfikującego modelu antycypacyjnego o mechanizm autoenkodera
+
+Krzysztof Ragan (2023)
+Zastosowanie transferu wiedzy i uczenia głębokiego w klasyfikacji obrazów medycznych
+
+Wiktor Pieklik (2023)
+Nowe algorytmy klasyfikacji na danych niezbalansowanych
+
 1. Mateusz Łabędzki (2022)
 Inferencja reguł systemu Lindenmayera na podstawie obrazu
+
 134. Tomasz Adamczyk (2022)
 Automatyczne streszczanie tekstu z użyciem uczenia głębokiego i uczenia ze wzmocnieniem
+
 133. Michał Kordasz (2022)
 Nowe mechanizmy uczenia w rozmytym klasyfikującym systemie antycypacyjnym
+
 132. Łukasz Śmierzchała (2022)
 Rozszerzenie klasyfikującego modelu antycypacyjnego o mechanizm experience replay
 
