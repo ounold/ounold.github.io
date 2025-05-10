@@ -5,7 +5,7 @@
 
 ## Kontakt
 Katedra Informatyki Technicznej (K30W04D03)\
-Politechnika Wrocławska\ 
+Politechnika Wrocławska 
 Wyb. Wyspiańskiego 27, 50-370 Wrocław 
 
 pokój: 324 budynek: C-3\
