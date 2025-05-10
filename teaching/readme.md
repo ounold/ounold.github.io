@@ -40,28 +40,28 @@ Można również umówić się na spotkanie w innym terminie telefonicznie lub d
 1. Michał Choczaj (2024)
 Kompaktowanie reguł w klasyfikującym modelu antycypacyjnym
 
-Tomasz Górniak (2024)
+2. Tomasz Górniak (2024)
 Zastosowanie uczenia ze wzmocnieniem w problemie komiwojażera
 
-Łukasz Babecki (2024)
+3. Łukasz Babecki (2024)
 Modyfikacje mechanizmu autoenkodera w klasyfikującym modelu antycypacyjnym
 
-Mikołaj Najda (2024)
+4. Mikołaj Najda (2024)
 Using machine learning and XAI (Explainable Artificial Intelligence) for voice analysis in medical applications
 
-Stanisław Franczyk (2023)
+5. Stanisław Franczyk (2023)
 Rozszerzenie klasyfikującego modelu antycypacyjnego o algorytm rozwiązujący problem rzadkich nagród
 
-Andrii Soniadlo (2023)
+6. Andrii Soniadlo (2023)
 Uczący się system klasyfikujący z autoenkoderem
 
-Michał Skwarzyński (2023)
+7. Michał Skwarzyński (2023)
 Rozszerzenie klasyfikującego modelu antycypacyjnego o mechanizm autoenkodera
 
-Krzysztof Ragan (2023)
+8. Krzysztof Ragan (2023)
 Zastosowanie transferu wiedzy i uczenia głębokiego w klasyfikacji obrazów medycznych
 
-Wiktor Pieklik (2023)
+9. Wiktor Pieklik (2023)
 Nowe algorytmy klasyfikacji na danych niezbalansowanych
 
 1. Mateusz Łabędzki (2022)
