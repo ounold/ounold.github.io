@@ -41,6 +41,15 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 
 
 #### Member of International Technical/Program/Scientific Committees:
+- The 16th International Conference on Grammatical Inference (ICGI), Rabat, Morocco on 10-13 July 2023 
+- 14th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2022), 2022, 28-11-2022 - 30-11-2022, Ho Chi Minh City, Wietnam
+- 13th International Conference on Computational Collective Intelligence (ICCCI 2021), 9 September – 1 October 2021. Rhodes, Greece
+- 13th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2021), Phuket, Thailand, April 7–10, 2021
+- The 13th International Conference on Computer Science and Information Technology (ICCSIT), Amsterdam, The Netherlands during October 14-16, 2020
+- 12th International Conference on Computational Collective Intelligence (ICCCI 2020), Da Nang, Vietnam, November 30 – December 3, 2020
+- 6th International Conference on machine Learning, Optimization and Data science (LOD 2020), 19th to 22nd July 2020. Siena, Tuscany, Italy
+- the 15th International Conference on Grammatical Inference (ICGI) August 26-28, 2020, Manhattan, New-York, USA
+- Intelligent Information and Database Systems. 12th Asian Conference, ACIIDS 2020, Phuket, Thailand, March 23–26, 2020
 - LOD 2019 The Fifth International Conference on Machine Learning, Optimization, and Data Science, September 10-13, Siena – Tuscany, Italy, 2019
 - ICCCI 2019 The 11th edition of the International Conference on Computational Collective Intelligence, 2019
 - the Federated Conference on Computer Science and Information Systems (FedCSIS 2019),Leipzig, Germany, 1-4 September 2019
