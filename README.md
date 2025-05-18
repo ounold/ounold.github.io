@@ -41,6 +41,12 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 
 
 #### Member of International Technical/Program/Scientific Committees:
+- 17th International Conference on Grammatical Inference (ICGI 2025) - chair
+- 17th International Conference on Computational Collective Intelligence (ICCCI 2025), Tokushima, Japan from June 27-29, 2025
+- 17th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2025), 23-25 April; Kitakyushu, Japan
+- 16th International Conference on Computational Collective Intelligence (ICCCI 2024), Leipzig, Germany, September 9–11, 2024
+- 15th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2023), 15-18 April; Ras Al Khaimah, United Arab Emirates 
+- 15th International Conference on Computational Collective Intelligence (ICCCI 2023), Budapest, Hungary, September 27-29, 2023
 - The 16th International Conference on Grammatical Inference (ICGI), Rabat, Morocco on 10-13 July 2023 
 - 14th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2022), 2022, 28-11-2022 - 30-11-2022, Ho Chi Minh City, Wietnam
 - 13th International Conference on Computational Collective Intelligence (ICCCI 2021), 9 September – 1 October 2021. Rhodes, Greece
@@ -333,3 +339,5 @@ email:  olgierd.unold@pwr.edu.pl \
 http:  [ounold.github.io](ounold.github.io)
 
 mobile phone +48 601 891 680  
+
+(last update 05.2025)
