@@ -508,7 +508,7 @@ Formalna reprezentacja struktury składniowej zdania języka naturalnego
 [Slajdy z wykładu J.Magott 4 (wersja z dnia 22.03.2023, pdf, zip, 2.5MB)](files/J.Magott%20W4.zip)\
 [Slajdy z wykładu J.Magott 5 (wersja z dnia 01.04.2023, pdf, zip, 2.5MB)](files/J.Magott%20W5.zip)
 
-[Slajdy z wykładu O.Unold 1 (wersja z dnia 8.06.2017, pdf, zip, 3.0MB)](files/O.Unold%20wyklad%20inteligencja%20obliczeniowa.zip)\
+[Slajdy z wykładu O.Unold 1 (wersja z dnia 19.05.2025, pdf, zip, 3.0MB)](files/O.Unold%20wyklad%20inteligencja%20obliczeniowa.zip)\
 [Slajdy z wykładu O.Unold 2 (wersja z dnia 8.06.2017, pdf, zip, 1.4MB)](files/O.Unold%20Wyklad%20Sztuczne%20Systemy%20Immunologiczne.zip)
 
 
