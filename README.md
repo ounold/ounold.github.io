@@ -41,7 +41,7 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 
 
 #### Member of International Technical/Program/Scientific Committees:
-- 17th International Conference on Grammatical Inference (ICGI 2025) - chair
+- 17th International Conference on Grammatical Inference (ICGI 2025) - co-chair
 - 17th International Conference on Computational Collective Intelligence (ICCCI 2025), Tokushima, Japan from June 27-29, 2025
 - 17th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2025), 23-25 April; Kitakyushu, Japan
 - 16th International Conference on Computational Collective Intelligence (ICCCI 2024), Leipzig, Germany, September 9–11, 2024
