@@ -520,7 +520,7 @@ Formalna reprezentacja struktury składniowej zdania języka naturalnego
 [Instrukcja laboratoryjna O. Unold (wersja z dnia 6.05.2020, pdf, zip, 0.5MB)](files/Instrukcja%20laboratoryjna%20IOiZ.zip)
 
 ## Kierunki rozwoju sztucznej inteligencji
-[Slajdy z wykładu (wersja z dnia 05.03.2025, pdf, zip, 6,5MB)](files/KierunkiAI.zip)
+[Slajdy z wykładu (wersja z dnia 11.06.2025, pdf, zip, 14MB)](files/KierunkiAI.zip)
 
 ## Introduction to Artificial Intelligence
 [Lecture slides (version 29.01.2024, pdf, zip, 3.5MB)](files/Introduction%20to%20AI%20O%20Unold%20slajdy.zip)
