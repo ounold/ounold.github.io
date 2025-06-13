@@ -508,13 +508,10 @@ Formalna reprezentacja struktury składniowej zdania języka naturalnego
 [Slajdy z wykładu J.Magott 4 (wersja z dnia 22.03.2023, pdf, zip, 2.5MB)](files/J.Magott%20W4.zip)\
 [Slajdy z wykładu J.Magott 5 (wersja z dnia 01.04.2023, pdf, zip, 2.5MB)](files/J.Magott%20W5.zip)
 
+[Slajdy z wykładu T.Kapłon 1-4 (wersja z dnia 12.06.2015, pdf, zip, 1.4MB)](files/T.kaplon%20W.zip)\
+
 [Slajdy z wykładu O.Unold 1 (wersja z dnia 19.05.2025, pdf, zip, 3.0MB)](files/O.Unold%20wyklad%20inteligencja%20obliczeniowa.zip)\
 [Slajdy z wykładu O.Unold 2 (wersja z dnia 8.06.2017, pdf, zip, 1.4MB)](files/O.Unold%20Wyklad%20Sztuczne%20Systemy%20Immunologiczne.zip)
-
-
-[Slajdy z wykładu R.Zdunek 1 (wersja z dnia 8.06.2017, pdf, zip, 6.4MB)](files/R.Zdunek%20W1.zip)\
-[Slajdy z wykładu R.Zdunek 2 (wersja z dnia 8.06.2017, pdf, zip, 5.7MB)](files/R.Zdunek%20W2.zip)\
-[Slajdy z wykładu R.Zdunek 3 (wersja z dnia 8.06.2017, pdf, zip, 17.6MB)](files/R.Zdunek%20W3.zip)
 
 ### Laboratorium
 [Instrukcja laboratoryjna O. Unold (wersja z dnia 6.05.2020, pdf, zip, 0.5MB)](files/Instrukcja%20laboratoryjna%20IOiZ.zip)
