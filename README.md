@@ -170,7 +170,6 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 - Gabor M., Wieczorek W., Unold O. (2021), Split-based algorithm for weighted context-free grammar induction. Applied Sciences. vol. 11, nr 3, art. 1030, s. 1-13.
 - Wieczorek W. Jastrząb T., Unold O. (2020), Answer set programming for regular inference. Applied Sciences. vol. 10, nr 21, art. 7700, s. 1-18.
 - Wieczorek W., Unold O., Strąk L. (2020), Parsing expression grammars and their induction algorithm. Applied Sciences. vol. 10, nr 23, art. 8747, 1-16.
-- Wieczorek W., Jastrząb T., Unold O. (2020), Answer set programming for regular inference. Applied Sciences. vol. 10, nr 21, art. 7700, 1-18.
 - Jureczko M., Ngoc Trung Nguyen, Szymczyk M. and Unold O. (2019), Towards implementing defect prediction in the software development process, Journal of Intelligent & Fuzzy Systems. vol. 37, nr 6, 7223-7238.
 - Rorbach G., Unold O., Konopka B.M. (2018), Distinguishing mirtronsfrom canonical miRNAs with data exploration and machine learningmethods, Scientific Reports, vol. 8, art. 7560, 1–13.
 - R. Ptak, B. Żygadło, O. Unold (2017), Projection-based text line segmentation with a variable threshold. International Journal of Applied Mathematics and Computer Science. vol. 27, nr 1, 195-206.
