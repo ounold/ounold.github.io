@@ -160,6 +160,7 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 - [Unold O. Ewolucyjne wnioskowanie gramatyczne (Evolutionary grammatical inference), Oficyna Wydawnicza Politechniki Wroclawskiej, Wroclaw, 2006 (in Polish)](ewg/)
 
 ### ISI Master Journals
+- [Szyc K., Hebda M., Dembiński K., Zdunek M., Unold O. (2025), Video-Based Automated Lameness Detection for Dairy Cows. Sensors, 25(18), 5771.](https://www.mdpi.com/1424-8220/25/18/5771) 
 - Dobrowolski W., Iwach-Kowalski K., Nikodem M. , Unold O. (2024), Log-based fault localization with unsupervised log segmentation. Applied Sciences. vol. 14, nr 18, art. 8421, s. 1-14.
 - Dobrowolski W., Libura M., Nikodem N., Unold O. (2024), Unsupervised log sequence segmentation. IEEE Access. vol. 12, s. 79003-79013.
 - Łabędzki M., Unold O. (2023), D0L-System inference from a single sequence with a genetic algorithm. Information. vol. 14, nr 6, art. 343, s. 1-16.
