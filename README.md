@@ -161,34 +161,34 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 
 ### ISI Master Journals
 - [Szyc K., Hebda M., Dembiński K., Zdunek M., Unold O. (2025), Video-Based Automated Lameness Detection for Dairy Cows. Sensors, 25(18), 5771.](https://www.mdpi.com/1424-8220/25/18/5771) 
-- Dobrowolski W., Iwach-Kowalski K., Nikodem M. , Unold O. (2024), Log-based fault localization with unsupervised log segmentation. Applied Sciences. vol. 14, nr 18, art. 8421, s. 1-14.
-- Dobrowolski W., Libura M., Nikodem N., Unold O. (2024), Unsupervised log sequence segmentation. IEEE Access. vol. 12, s. 79003-79013.
-- Łabędzki M., Unold O. (2023), D0L-System inference from a single sequence with a genetic algorithm. Information. vol. 14, nr 6, art. 343, s. 1-16.
-- Dobrowolski W., Nikodem M., Unold O. (2023), Software failure log analysis for engineers - review. Electronics. vol. 12, nr 10, art. 2260, s. 1-21.
-- Śmierzchała Ł., Kozłowski N., Unold O. (2023), Anticipatory classifier system with episode-based experience replay. IEEE Access. vol. 11, s. 41190-41204.
-- Kozłowski N., Unold O. (2022), Internalizing knowledge for Anticipatory Classifier Systems in discretized real-valued environments. IEEE Access. vol. 10, s. 33816-33828.
-- Kozłowski N., Unold O. (2021), Anticipatory classifier system with average reward criterion in discretized multi-step environments. Applied Sciences. vol. 16, nr 3, art. 1098, s. 1-16.
-- Gabor M., Wieczorek W., Unold O. (2021), Split-based algorithm for weighted context-free grammar induction. Applied Sciences. vol. 11, nr 3, art. 1030, s. 1-13.
-- Wieczorek W. Jastrząb T., Unold O. (2020), Answer set programming for regular inference. Applied Sciences. vol. 10, nr 21, art. 7700, s. 1-18.
-- Wieczorek W., Unold O., Strąk L. (2020), Parsing expression grammars and their induction algorithm. Applied Sciences. vol. 10, nr 23, art. 8747, 1-16.
-- Jureczko M., Ngoc Trung Nguyen, Szymczyk M. and Unold O. (2019), Towards implementing defect prediction in the software development process, Journal of Intelligent & Fuzzy Systems. vol. 37, nr 6, 7223-7238.
-- Rorbach G., Unold O., Konopka B.M. (2018), Distinguishing mirtronsfrom canonical miRNAs with data exploration and machine learningmethods, Scientific Reports, vol. 8, art. 7560, 1–13.
-- R. Ptak, B. Żygadło, O. Unold (2017), Projection-based text line segmentation with a variable threshold. International Journal of Applied Mathematics and Computer Science. vol. 27, nr 1, 195-206.
-- Sikora, A. Rodak, O. Unold, P. Klapetek (2016), The development of the spatially correlated adjustment wavelet filter for atomic force microscopy data. Ultramicroscopy. vol. 171, 146-152.
-- W. Wieczorek, O. Unold (2016), Use of a novel grammatical inference approach in classification of amyloidogenic hexapeptides. Computational and Mathematical Methods in Medicine., vol. 2016,1-8.
-- E. Walkowicz, O. Unold, H. Maciejewski, P. Skrobanek (2014), The effect of selected factors on the length of gestation period in Silesian mares. Animal Science Papers and Reports. 2014, vol. 32, nr 1, 55-64.
-- Stanisławski J., Kotulska M., Unold O. (2013), Machine learning methods are compatible with 3D profile classification of amylogenic hexapeptides, BMC Bioinformatics, vol. 14 (21), 1-19.
-- M. Kotulska, O. Unold (2013), On the amyloid datasets used for training PAFIG - how (not) to extend the experimental dataset of hexapeptides. BMC Bioinformatics vol. 14, [art.] 351, 1-8.
+- [Dobrowolski W., Iwach-Kowalski K., Nikodem M. , Unold O. (2024), Log-based fault localization with unsupervised log segmentation. Applied Sciences. vol. 14, nr 18, art. 8421, s. 1-14.](https://www.mdpi.com/2076-3417/14/18/8421)
+- [Dobrowolski W., Libura M., Nikodem N., Unold O. (2024), Unsupervised log sequence segmentation. IEEE Access. vol. 12, s. 79003-79013.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10547240)
+- [Łabędzki M., Unold O. (2023), D0L-System inference from a single sequence with a genetic algorithm. Information. vol. 14, nr 6, art. 343, s. 1-16.](https://www.mdpi.com/2078-2489/14/6/343)
+- [Dobrowolski W., Nikodem M., Unold O. (2023), Software failure log analysis for engineers - review. Electronics. vol. 12, nr 10, art. 2260, s. 1-21.](https://www.mdpi.com/2079-9292/12/10/2260)
+- [Śmierzchała Ł., Kozłowski N., Unold O. (2023), Anticipatory classifier system with episode-based experience replay. IEEE Access. vol. 11, s. 41190-41204.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10107600)
+- [Kozłowski N., Unold O. (2022), Internalizing knowledge for Anticipatory Classifier Systems in discretized real-valued environments. IEEE Access. vol. 10, s. 33816-33828.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9743938)
+- [Kozłowski N., Unold O. (2021), Anticipatory classifier system with average reward criterion in discretized multi-step environments. Applied Sciences. vol. 16, nr 3, art. 1098, s. 1-16.](https://www.mdpi.com/2076-3417/11/3/1098)
+- [Gabor M., Wieczorek W., Unold O. (2021), Split-based algorithm for weighted context-free grammar induction. Applied Sciences. vol. 11, nr 3, art. 1030, s. 1-13.](https://www.mdpi.com/2076-3417/11/3/1030)
+- [Wieczorek W. Jastrząb T., Unold O. (2020), Answer set programming for regular inference. Applied Sciences. vol. 10, nr 21, art. 7700, s. 1-18.](https://www.mdpi.com/2076-3417/10/21/7700)
+- [Wieczorek W., Unold O., Strąk L. (2020), Parsing expression grammars and their induction algorithm. Applied Sciences. vol. 10, nr 23, art. 8747, 1-16.](https://www.mdpi.com/2076-3417/10/23/8747)
+- [Jureczko M., Ngoc Trung Nguyen, Szymczyk M. and Unold O. (2019), Towards implementing defect prediction in the software development process, Journal of Intelligent & Fuzzy Systems. vol. 37, nr 6, 7223-7238.](https://journals.sagepub.com/doi/full/10.3233/JIFS-179334)
+- [Rorbach G., Unold O., Konopka B.M. (2018), Distinguishing mirtronsfrom canonical miRNAs with data exploration and machine learningmethods, Scientific Reports, vol. 8, art. 7560, 1–13.](https://www.nature.com/articles/s41598-018-25578-3)
+- [R. Ptak, B. Żygadło, O. Unold (2017), Projection-based text line segmentation with a variable threshold. International Journal of Applied Mathematics and Computer Science. vol. 27, nr 1, 195-206.](https://sciendo.com/article/10.1515/amcs-2017-0014)
+- [Sikora, A. Rodak, O. Unold, P. Klapetek (2016), The development of the spatially correlated adjustment wavelet filter for atomic force microscopy data. Ultramicroscopy. vol. 171, 146-152.](https://www.sciencedirect.com/science/article/pii/S0304399116302066)
+- [W. Wieczorek, O. Unold (2016), Use of a novel grammatical inference approach in classification of amyloidogenic hexapeptides. Computational and Mathematical Methods in Medicine., vol. 2016,1-8.](https://pmc.ncbi.nlm.nih.gov/articles/PMC4804041/)
+- [E. Walkowicz, O. Unold, H. Maciejewski, P. Skrobanek (2014), The effect of selected factors on the length of gestation period in Silesian mares. Animal Science Papers and Reports. 2014, vol. 32, nr 1, 55-64.](https://www.igbzpan.pl/uploaded/FSiBundleContentBlockBundleEntityTranslatableBlockTranslatableFilesElement/filePath/123/str55-64.pdf)
+- [Stanisławski J., Kotulska M., Unold O. (2013), Machine learning methods are compatible with 3D profile classification of amylogenic hexapeptides, BMC Bioinformatics, vol. 14 (21), 1-19.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-21)
+- [M. Kotulska, O. Unold (2013), On the amyloid datasets used for training PAFIG - how (not) to extend the experimental dataset of hexapeptides. BMC Bioinformatics vol. 14, [art.] 351, 1-8.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-351)
 - Walkowicz E., Maciejewski H., Unold O., Skrobanek P. (2012), The Influence of Schweres Warmblut breed stallions on Silesian breed horses exterior, J. Anim. Feed Sci., vo. 22 (3), 272-277.
-- Walkowicz E., Unold O., Maciejewski H., Skrobanek P. (2011), Zoometric indices in Silesian horses in the years 1945-2005, Ann. Anim. Sci., 11(4), 555-565.
-- Mężyk E., Unold O. (2011), Machine Learning Approach to Model Sport Training, Computers in Human Behavior, Elsevier, 27(5), 1499-1506.
-- Troć M., Unold O. (2011), Self-adaptation of learning rate in XCS working in noisy and dynamic environments, Computers in Human Behavior, Elsevier, 27(5), 1535-1544.
-- Mężyk E., Unold O. (2011), Mining Fuzzy Rules Using an Artificial Immune System with Fuzzy Partition Learning, Applied Soft Computing, Elsevier, 11(2), 1965-1974.
+- [Walkowicz E., Unold O., Maciejewski H., Skrobanek P. (2011), Zoometric indices in Silesian horses in the years 1945-2005, Ann. Anim. Sci., 11(4), 555-565.](https://sciendo.com/article/10.2478/v10220-011-0007-x)
+- [Mężyk E., Unold O. (2011), Machine Learning Approach to Model Sport Training, Computers in Human Behavior, Elsevier, 27(5), 1499-1506.](https://www.sciencedirect.com/science/article/pii/S0747563210003122)
+- [Troć M., Unold O. (2011), Self-adaptation of learning rate in XCS working in noisy and dynamic environments, Computers in Human Behavior, Elsevier, 27(5), 1535-1544.](https://www.sciencedirect.com/science/article/pii/S0747563210003225)
+- [Mężyk E., Unold O. (2011), Mining Fuzzy Rules Using an Artificial Immune System with Fuzzy Partition Learning, Applied Soft Computing, Elsevier, 11(2), 1965-1974.](https://www.sciencedirect.com/science/article/pii/S1568494610001481)
 - Unold O. (2010) Self-adaptive learning classifier system, Journal of Circuits, Systems, and Computers, World Scientific Publishing, 19(1) 275-296.
-- Unold O., Troć M. (2010) Self-adaptation of Parameters in a Learning Classifier System Ensemble Machine,  Int. J. Appl. Math. Comput. Sci., University of Zielona Góra, 20(1), 157-174.
-- Unold O.,  Jaworski M. (2010), Learning context-free grammar using improved tabular representation, Applied Soft Computing,  Elsevier 10,  44-52.
-- Unold O., Tuszyński K. (2008), Mining Knowledge from Data using Anticipatory Classifier System, Knowledge-Based Systems, Elsevier, 21 (5), 363-370. 
-- Cielecki L., Unold O. (2007), Real-valued GCS classifier system, Int. J. Appl. Math. Comput. Sci., University of Zielona Góra, 17(4), 539-547.
+- [Unold O., Troć M. (2010) Self-adaptation of Parameters in a Learning Classifier System Ensemble Machine,  Int. J. Appl. Math. Comput. Sci., University of Zielona Góra, 20(1), 157-174.](https://sciendo.com/article/10.2478/v10006-010-0012-8)
+- [Unold O.,  Jaworski M. (2010), Learning context-free grammar using improved tabular representation, Applied Soft Computing,  Elsevier 10,  44-52.](https://www.sciencedirect.com/science/article/pii/S1568494609000696)
+- [Unold O., Tuszyński K. (2008), Mining Knowledge from Data using Anticipatory Classifier System, Knowledge-Based Systems, Elsevier, 21 (5), 363-370.](https://www.sciencedirect.com/science/article/pii/S0950705108000117) 
+- [Cielecki L., Unold O. (2007), Real-valued GCS classifier system, Int. J. Appl. Math. Comput. Sci., University of Zielona Góra, 17(4), 539-547.](https://sciendo.com/pl/article/10.2478/v10006-007-0044-x?tab=authors)
 - Unold O. (2005), Playing a toy-grammar with GCS, [w:] Mira J., Álvarez J.R. (red.) IWINAC 2005, LNCS 3562, 300–309.
  
 ### Chapters in books
