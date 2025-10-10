@@ -483,7 +483,7 @@ Formalna reprezentacja struktury składniowej zdania języka naturalnego
 
 ## Kierowanie projektem programistycznym
 ### Wykład
-[Slajdy z wykładu (wersja z dnia 18.01.2017, pdf, zip, 3.5MB)](files/wyklad%20kierowanie%20projektem%20programistycznym.zip)\
+[Slajdy z wykładu (wersja z dnia 10.10.2025, pdf, zip, 2.6MB)](files/wyklad%20kierowanie%20projektem%20programistycznym.zip)\
 [Slajdy z wykładu prowadzonego przez pracownika Capgemini (10.03.2010, pdf, zip, 1MB)](files/capgemini.zip)
 
 ### Seminarium
