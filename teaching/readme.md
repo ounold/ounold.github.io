@@ -520,4 +520,4 @@ Formalna reprezentacja struktury składniowej zdania języka naturalnego
 [Slajdy z wykładu (wersja z dnia 11.06.2025, pdf, zip, 14MB)](files/KierunkiAI.zip)
 
 ## Introduction to Artificial Intelligence
-[Lecture slides (version 26.10.2025, pdf, zip, 3.5MB)](files/Introduction%20to%20AI%20O%20Unold%20slajdy.zip)
+[Lecture slides (version 11.11.2025, pdf, zip, 3.5MB)](files/Introduction%20to%20AI%20O%20Unold%20slajdy.zip)
