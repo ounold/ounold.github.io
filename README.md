@@ -7,6 +7,7 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 [google scholar](https://scholar.google.pl/citations?user=O0ZwrSoAAAAJ&hl=pl)\
 [orcid](https://orcid.org/0000-0003-4722-176X)\
 [dona](https://dona.pwr.edu.pl/szukaj/default.aspx?nrewid=345780)\
+[dblp](https://dblp.org/pid/15/3718.html)\
 [linkedin](https://www.linkedin.com/in/olgierd-unold-5113822/)
 
 ## Education
