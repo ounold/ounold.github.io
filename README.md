@@ -243,6 +243,7 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 - Unold O., Troć M., Dobosz T., Trusewicz A. (2003), Finite-State Molecular Computing, Eighth International Conference on Implementation and Application of Automata CIAA 2003, Santa Barbara, CA, LNCS 2759, 309–310.
 
 ### Conferences
+- Najda M., Dudek M., Unold O., Jadczyk T., Swierz K., Swiatek G., & Hemmerling D. (2025), An Explainable AI-Integrated Diagnostic System for Voice Analysis in Heart Failure Patients. In AAAI Bridge Program on AI for Medicine and Healthcare (pp. 56-62). PMLR.
 - Łabędzki Ł. Unold O. (2025), Why state differentiation in ACS2 is not enough in aliased environments. W: GECCO’25 Companion : Proceedings of the 2025 Genetic and Evolutionary Computation Conference Companion, ACM, cop. 2025. s. 2249-2257.
 - Unold O., Kozłowski N., Śmierzchała Ł. (2022), Preliminary tests of an anticipatory classifier system with experience replay. W: GECCO’22 Companion : Proceedings of the 2022 Genetic and Evolutionary Computation Conference Companion, July 09-13, 2022 Boston, Massachusetts / ed. Jonathan E. Fieldsend. New York, NY : ACM, cop. 2022. s. 2095-2103.
 - Kozłowski N., Unold O. (2020), Investigating exploration techniques for ACS in discretized real-valued environments. W: GECCO '20 : Proceedings of the Genetic and Evolutionary Computation Conference Companion, Cancún, Mexico, July 08-12, 2020. New York, NY : ACM, cop. 2020. s. 1765-1773.
