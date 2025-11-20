@@ -37,22 +37,22 @@ Można również umówić się na spotkanie w innym terminie telefonicznie lub d
 - ...
 
 ### Prace zrealizowane
-Jan Zemło (2025)
+1. Jan Zemło (2025)
 Zastosowanie modelu ACS2 w środowiskach z rzadkimi nagrodami
 
-Marcelina Śmigielska (2025)
+2. Marcelina Śmigielska (2025)
 Klasyfikacja chorób roślin przy wykorzystaniu uczenia głębokiego
 
-Bartosz Matysiak (2025)
+3. Bartosz Matysiak (2025)
 Rozszerzenie modelu ACS2 o mechanizm zbalansowanego powtarzania doświadczeń
 
-Ivan Danylenko (2025)
+4. Ivan Danylenko (2025)
 Use of Deep Learning in Identifying Severity of Depression Based on Speech
 
-Wiktoria Pabiś (2025)
+5. Wiktoria Pabiś (2025)
 Zastosowanie metod uczenia maszynowego w procesie oceny jakości wody
 
-Sara Bała (2025)
+6. Sara Bała (2025)
 Zastosowanie rozszerzonej dokumentacji medycznej w rozpoznawaniu raka skóry
 
 1. Michał Choczaj (2024)
