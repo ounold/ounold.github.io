@@ -496,12 +496,12 @@ Formalna reprezentacja struktury składniowej zdania języka naturalnego
 
 ## Inżynieria oprogramowania
 ### Wykład
-[Slajdy z wykładu (wersja z dnia 17.01.2023, pdf, zip, 1.5 MB)](files/wyklad%20inzynieria%20oprogramowania.zip)\
+[Slajdy z wykładu (wersja z dnia 26.11.2025, pdf, zip, 1.6 MB)](files/wyklad%20inzynieria%20oprogramowania.zip)\
 [Slajdy z wykładu o testowaniu (wersja z dnia 19.01.2010, pdf, 1.5 MB)](files/testy.pdf)
 
 ## Kierowanie projektem programistycznym
 ### Wykład
-[Slajdy z wykładu (wersja z dnia 26.11.2025, pdf, zip, 1.6MB)](files/wyklad%20kierowanie%20projektem%20programistycznym.zip)\
+[Slajdy z wykładu (wersja z dnia 10.19.2025, pdf, zip, 2.6MB)](files/wyklad%20kierowanie%20projektem%20programistycznym.zip)\
 [Slajdy z wykładu prowadzonego przez pracownika Capgemini (10.03.2010, pdf, zip, 1MB)](files/capgemini.zip)
 
 ### Seminarium
