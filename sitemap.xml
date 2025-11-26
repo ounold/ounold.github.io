@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://ounold.github.io/</loc>
+  <lastmod>2025-11-26T20:18:30+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ounold.github.io/ewg/</loc>
+  <lastmod>2025-11-26T20:18:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ounold.github.io/teaching/</loc>
+  <lastmod>2025-11-26T20:18:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ounold.github.io/ewg/files/Errata_O_Unold.pdf</loc>
+  <lastmod>2025-11-26T20:18:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ounold.github.io/teaching/files/testy.pdf</loc>
+  <lastmod>2025-11-26T20:18:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ounold.github.io/teaching/files/Przykladowe%20tematy%20na%20seminarium%20z%20KPP.pdf</loc>
+  <lastmod>2025-11-26T20:18:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ounold.github.io/teaching/files/27%20bledow.pdf</loc>
+  <lastmod>2025-11-26T20:18:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ounold.github.io/teaching/files/Zawartosc%20prezentacji%20dyplomowej.pdf</loc>
+  <lastmod>2025-11-26T20:18:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
