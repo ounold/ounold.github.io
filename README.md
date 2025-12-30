@@ -163,7 +163,7 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 - [Unold O. Ewolucyjne wnioskowanie gramatyczne (Evolutionary grammatical inference), Oficyna Wydawnicza Politechniki Wroclawskiej, Wroclaw, 2006 (in Polish)](ewg/)
 
 ### ISI Master Journals
-- [Danylenko I., Unold O. (2026), Common Pitfalls and Recommendations for Use of Machine Learning in Depression Severity Estimation: DAIC-WOZ Study. Applied Sciences, 16(1), 422. https://doi.org/10.3390/app16010422](https://www.mdpi.com/2076-3417/16/1/422)
+- [Danylenko I., Unold O. (2026), Common Pitfalls and Recommendations for Use of Machine Learning in Depression Severity Estimation: DAIC-WOZ Study. Applied Sciences, 16(1), 422.](https://www.mdpi.com/2076-3417/16/1/422)
 - [Szyc K., Hebda M., Dembiński K., Zdunek M., Unold O. (2025), Video-Based Automated Lameness Detection for Dairy Cows. Sensors, 25(18), 5771.](https://www.mdpi.com/1424-8220/25/18/5771) 
 - [Dobrowolski W., Iwach-Kowalski K., Nikodem M. , Unold O. (2024), Log-based fault localization with unsupervised log segmentation. Applied Sciences. vol. 14, nr 18, art. 8421, s. 1-14.](https://www.mdpi.com/2076-3417/14/18/8421)
 - [Dobrowolski W., Libura M., Nikodem N., Unold O. (2024), Unsupervised log sequence segmentation. IEEE Access. vol. 12, s. 79003-79013.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10547240)
