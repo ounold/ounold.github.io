@@ -489,7 +489,7 @@ Formalna reprezentacja struktury składniowej zdania języka naturalnego
 
 ## Hurtownie danych i Big data
 ### Wykład
-[Slajdy z wykładu (wersja z dnia 4.03.2024, pdf, zip, 4.5MB)](files/wyklad%20hurtownie%20danych.zip)
+[Slajdy z wykładu (wersja z dnia 2.03.2026, pdf, zip, 4.5MB)](files/wyklad%20hurtownie%20danych.zip)
 
 ### Laboratorium
 [Instrukcje laboratoryjne (wersja z dnia 1.03.2014, pdf, zip, 0.5MB)](files/laboratorium%20Hurtownie%20danych.zip)
