@@ -44,7 +44,7 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 #### Member of International Technical/Program/Scientific Committees:
 - Genetic and Evolutionary Computation Conference GECCO-2026 - EML PC Member, July 13 - 17, 2026, San José, Costa Rica
 - 18th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2025), 13-15 April 2026, Kaohsiung, Taiwan
-- 17th International Conference on Grammatical Inference (ICGI 2026) - co-chair, 3 to 15 April 2026, TU Delft, the Netherlands
+- 17th International Conference on Grammatical Inference (ICGI 2026), TU Delft, the Netherlands
 - 17th International Conference on Computational Collective Intelligence (ICCCI 2025), Tokushima, Japan from June 27-29, 2025
 - 17th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2025), 23-25 April; Kitakyushu, Japan
 - 16th International Conference on Computational Collective Intelligence (ICCCI 2024), Leipzig, Germany, September 9–11, 2024
