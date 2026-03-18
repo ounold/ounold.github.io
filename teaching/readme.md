@@ -522,8 +522,8 @@ Formalna reprezentacja struktury składniowej zdania języka naturalnego
 ### Wykład
 [Slajdy z wykładu J.Magott 1 (wersja z dnia 9.03.2026, pdf, zip, 1.0MB)](files/J.Magott%20W1.zip)\
 [Slajdy z wykładu J.Magott 2 (wersja z dnia 9.03.2026, pdf, zip, 0.8MB)](files/J.Magott%20W2.zip)\
-[Slajdy z wykładu J.Magott 3 (wersja z dnia 12.03.2021 pdf, zip, 0.8MB)](files/J.Magott%20W3.zip)\
-[Slajdy z wykładu J.Magott 4 (wersja z dnia 22.03.2023, pdf, zip, 2.5MB)](files/J.Magott%20W4.zip)\
+[Slajdy z wykładu J.Magott 3 (wersja z dnia 12.03.2026 pdf, zip, 0.8MB)](files/J.Magott%20W3.zip)\
+[Slajdy z wykładu J.Magott 4 (wersja z dnia 18.03.2026, pdf, zip, 1.1MB)](files/J.Magott%20W4.zip)\
 [Slajdy z wykładu J.Magott 5 (wersja z dnia 01.04.2023, pdf, zip, 2.5MB)](files/J.Magott%20W5.zip)
 
 [Slajdy z wykładu T.Kapłon 1-4 (wersja z dnia 12.06.2025, pdf, zip, 1.4MB)](files/T.Kaplon%20W.zip)
