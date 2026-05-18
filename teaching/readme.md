@@ -489,7 +489,7 @@ Formalna reprezentacja struktury składniowej zdania języka naturalnego
 
 ## Hurtownie danych i Big data
 ### Wykład
-[Slajdy z wykładu (wersja z dnia 23.03.2026, pdf, zip, 4.5MB)](files/wyklad%20hurtownie%20danych.zip)
+[Slajdy z wykładu (wersja z dnia 18.05.2026, pdf, zip, 4.5MB)](files/wyklad%20hurtownie%20danych.zip)
 
 ### Laboratorium
 [Instrukcje laboratoryjne (wersja z dnia 1.03.2014, pdf, zip, 0.5MB)](files/laboratorium%20Hurtownie%20danych.zip)
@@ -535,7 +535,7 @@ Formalna reprezentacja struktury składniowej zdania języka naturalnego
 [Instrukcja laboratoryjna O. Unold (wersja z dnia 6.05.2020, pdf, zip, 0.5MB)](files/Instrukcja%20laboratoryjna%20IOiZ.zip)
 
 ## Kierunki rozwoju sztucznej inteligencji
-[Slajdy z wykładu (wersja z dnia 4.03.2026, pdf, zip, 6MB)](files/KierunkiAI.zip)
+[Slajdy z wykładu (wersja z dnia 18.05.2026, pdf, zip, 6MB)](files/KierunkiAI.zip)
 
 ## Introduction to Artificial Intelligence
 [Lecture slides (version 11.11.2025, pdf, zip, 3.5MB)](files/Introduction%20to%20AI%20O%20Unold%20slajdy.zip)
