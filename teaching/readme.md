@@ -528,7 +528,7 @@ Formalna reprezentacja struktury składniowej zdania języka naturalnego
 
 [Slajdy z wykładu T.Kapłon 1-4 (wersja z dnia 12.06.2025, pdf, zip, 1.4MB)](files/T.Kaplon%20W.zip)
 
-[Slajdy z wykładu O.Unold 1 (wersja z dnia 19.05.2025, pdf, zip, 3.0MB)](files/O.Unold%20wyklad%20inteligencja%20obliczeniowa.zip)\
+[Slajdy z wykładu O.Unold 1 (wersja z dnia 24.05.2026, pdf, zip, 2.1MB)](files/O.Unold%20wyklad%20inteligencja%20obliczeniowa.zip)\
 [Slajdy z wykładu O.Unold 2 (wersja z dnia 8.06.2017, pdf, zip, 1.4MB)](files/O.Unold%20Wyklad%20Sztuczne%20Systemy%20Immunologiczne.zip)
 
 ### Laboratorium
