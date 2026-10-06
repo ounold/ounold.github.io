@@ -337,7 +337,7 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 [Interview on Trwam TV on AI, 8.06.2024, in Polish](https://www.radiomaryja.pl/multimedia/rozmowy-niedokonczone-jest-bog-sztuczna-inteligencja-pomoc-czy-przeszkoda-w-wierze-cz-i/)
 
 ### The 25th Poznań Marathon, 4.10.2026
-![maraton](images/assets/maraton_4.10.26.png)
+![maraton](assets/images/maraton_4.10.26.png)
 
 ## Contact
 Department of Computer Engineering K30W04D03 \
