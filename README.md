@@ -332,7 +332,12 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 [teaching/dydaktyka website](/teaching/)
 
 ## Misc
+
+### Interview on Trwam TV on AI, 8.06.2024
 [Interview on Trwam TV on AI, 8.06.2024, in Polish](https://www.radiomaryja.pl/multimedia/rozmowy-niedokonczone-jest-bog-sztuczna-inteligencja-pomoc-czy-przeszkoda-w-wierze-cz-i/)
+
+### The 25th Poznań Marathon, 4.10.2026
+<img width="627" height="939" alt="Obraz ChatGPT 5 paź 2026, 22_46_14" src="https://github.com/user-attachments/assets/43d07dce-9238-4738-92a0-eaf1d388f03c" />
 
 ## Contact
 Department of Computer Engineering K30W04D03 \
