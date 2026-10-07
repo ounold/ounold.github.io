@@ -37,6 +37,21 @@ Można również umówić się na spotkanie w innym terminie telefonicznie lub d
 - ...
 
 ### Prace zrealizowane
+1. Maria Słomiany (2026)
+Analiza wpływu architektury modelu głębokiego na ocenę interpretowalności na przykładzie klasyfikacji stylów artystycznych
+
+2. Marta Alina Skowron (2026)
+Generatywny model peptydów amyloidowych
+
+3. Wojciech Maciejończyk (2026)
+Rozszerzenie modelu ACS2ER o metodę priorytetyzacji doświadczenia
+
+4. Jacek Glapiński (2026) 
+Zastosowanie sieci neuronowych do generacji sygnałów adaptujących się do warunków kanału radiowego
+
+5. Zuzanna Gorczyca (2026)
+Classification of patients to the degree of hearing loss based on audiograms using machine learning and deep learning methods
+
 1. Jan Zemło (2025)
 Zastosowanie modelu ACS2 w środowiskach z rzadkimi nagrodami
 
