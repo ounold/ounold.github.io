@@ -364,5 +364,5 @@ http:  [ounold.github.io](ounold.github.io)
 
 mobile phone +48 601 891 680  
 
-(last update 10.2026)
+(last update 12.2026)
 
