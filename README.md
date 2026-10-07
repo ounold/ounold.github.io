@@ -26,6 +26,8 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 - natural language processing (finite-state formalisms and methods, syntactic parsing techniques)
 
 ## PhD Students
+- Ngoc Trung Nguyen. A method for assessing the compliance of system architectures with organizational rules and enterprise architectural standards using large language models, taking into account uncertainty, exceptions, and the auditability of decisions (2026-)
+- Mateusz Łabędzki. Integration of Subgoal Generation and Experience Prioritization Methods in Anticipatory Learning Classifier Systems for Environments with Sparse Rewards (2025-)
 - Dr. Wojciech Dobrowolski. Application of real-time machine learning for diagnostics and fault location in relay stations (BTS) (2025) 
 - Dr. Maciej Troć. Mechanisms of adaptation in learning classifier systems (2024)
 - Dr. Zbigniew Pliszka. New methods of searching the binary vector space in solving selected optimization problems (2022)
@@ -163,6 +165,7 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 - [Unold O. Ewolucyjne wnioskowanie gramatyczne (Evolutionary grammatical inference), Oficyna Wydawnicza Politechniki Wroclawskiej, Wroclaw, 2006 (in Polish)](ewg/)
 
 ### ISI Master Journals
+- [Pieklik W., Unold O. (2026). Bagging folds using synthetic majority oversampling for imbalance classification. Applied Soft Computing, 116414.](https://www.sciencedirect.com/science/article/pii/S1568494626018624)
 - [Danylenko I., Unold O. (2026), Common Pitfalls and Recommendations for Use of Machine Learning in Depression Severity Estimation: DAIC-WOZ Study. Applied Sciences, 16(1), 422.](https://www.mdpi.com/2076-3417/16/1/422)
 - [Szyc K., Hebda M., Dembiński K., Zdunek M., Unold O. (2025), Video-Based Automated Lameness Detection for Dairy Cows. Sensors, 25(18), 5771.](https://www.mdpi.com/1424-8220/25/18/5771) 
 - [Dobrowolski W., Iwach-Kowalski K., Nikodem M. , Unold O. (2024), Log-based fault localization with unsupervised log segmentation. Applied Sciences. vol. 14, nr 18, art. 8421, s. 1-14.](https://www.mdpi.com/2076-3417/14/18/8421)
@@ -247,6 +250,8 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 - Unold O., Troć M., Dobosz T., Trusewicz A. (2003), Finite-State Molecular Computing, Eighth International Conference on Implementation and Application of Automata CIAA 2003, Santa Barbara, CA, LNCS 2759, 309–310.
 
 ### Conferences
+- Unold O., Zemło, J. (2026). Value Consistency Prioritization for Accelerating Knowledge Discovery in Sparse Reward Anticipatory Classifier Systems. In Proceedings of the Genetic and Evolutionary Computation Conference (pp. 365-373).
+- Unold O. (2026). A high-performance ACS2 based on vectorization and GPU. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1212-1219).
 - Najda M., Dudek M., Unold O., Jadczyk T., Swierz K., Swiatek G., & Hemmerling D. (2025), An Explainable AI-Integrated Diagnostic System for Voice Analysis in Heart Failure Patients. In AAAI Bridge Program on AI for Medicine and Healthcare (pp. 56-62). PMLR.
 - Łabędzki Ł. Unold O. (2025), Why state differentiation in ACS2 is not enough in aliased environments. W: GECCO’25 Companion : Proceedings of the 2025 Genetic and Evolutionary Computation Conference Companion, ACM, cop. 2025. s. 2249-2257.
 - Unold O., Kozłowski N., Śmierzchała Ł. (2022), Preliminary tests of an anticipatory classifier system with experience replay. W: GECCO’22 Companion : Proceedings of the 2022 Genetic and Evolutionary Computation Conference Companion, July 09-13, 2022 Boston, Massachusetts / ed. Jonathan E. Fieldsend. New York, NY : ACM, cop. 2022. s. 2095-2103.
