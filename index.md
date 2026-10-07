@@ -254,6 +254,8 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 - Unold O., Troć M., Dobosz T., Trusewicz A. (2003), Finite-State Molecular Computing, Eighth International Conference on Implementation and Application of Automata CIAA 2003, Santa Barbara, CA, LNCS 2759, 309–310.
 
 ### Conferences
+- Słomiany M., Unold O. (2026). Architecture Matters for Attribution Quality: A Quantitative Evaluation of XAI Methods Across Deep Vision Architectures in Artistic Style Classification. In Proceedings of ECML PKDD.
+- Gilewicz J., Unold O. (2026). Uncertainty-Aware Surrogate-Assisted Evolutionary Reinforcement Learning in Expensive Low-Data Regimes.  In Proceedings of ECML PKDD.
 - Unold O., Zemło, J. (2026). Value Consistency Prioritization for Accelerating Knowledge Discovery in Sparse Reward Anticipatory Classifier Systems. In Proceedings of the Genetic and Evolutionary Computation Conference (pp. 365-373).
 - Unold O. (2026). A high-performance ACS2 based on vectorization and GPU. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1212-1219).
 - Najda M., Dudek M., Unold O., Jadczyk T., Swierz K., Swiatek G., & Hemmerling D. (2025), An Explainable AI-Integrated Diagnostic System for Voice Analysis in Heart Failure Patients. In AAAI Bridge Program on AI for Medicine and Healthcare (pp. 56-62). PMLR.
@@ -364,5 +366,5 @@ http:  [ounold.github.io](ounold.github.io)
 
 mobile phone +48 601 891 680  
 
-(last update 12.2026)
+(last update 10.2026)
 
