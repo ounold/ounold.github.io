@@ -21,7 +21,7 @@ http:  https://ounold.github.io/
  
 ## Konsultacje i zajęcia
 ### Zajęcia różne :) 
-### Konsultacje w sem. letnim 25/26 śr 13-15 (zdalnie), czw 11-13
+### Konsultacje w sem. zimowym 26/27 śr 13-15, pt  13-15 (zdalnie)
 
 Można również umówić się na spotkanie w innym terminie telefonicznie lub drogą elektroniczną.
 
