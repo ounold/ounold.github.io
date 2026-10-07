@@ -1,6 +1,3 @@
----
-layout: default
----
 I am a research scientist at [Wroclaw University of Science and Technology](https://pwr.edu.pl/en/) in the [Department of Computer Engineering](https://dce.pwr.edu.pl/en/).
 
 ## Roadmap
