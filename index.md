@@ -23,11 +23,9 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 - M.Sc. in Computer Engineering, Faculty of Electronics, Wroclaw University of Technology (1989)
 
 ## Research Interests
-- computational learning (evolutionary algorithms, learning classifier systems, fuzzy rule systems)
+- evolutionary machine learning (learning classifier systems)
 - machine learning (grammatical inference)
-- bioinformatics
-- DNA Computing
-- natural language processing (finite-state formalisms and methods, syntactic parsing techniques)
+- ai-based software engineering
 
 ## PhD Students
 - Ngoc Trung Nguyen. A method for assessing the compliance of system architectures with organizational rules and enterprise architectural standards using large language models, taking into account uncertainty, exceptions, and the auditability of decisions (2026-)
