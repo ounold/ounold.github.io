@@ -49,7 +49,7 @@ I am a research scientist at [Wroclaw University of Science and Technology](http
 - 19th International Conference on Computational Collective Intelligence (ICCI 2027), 15-17 September 2027, Cadiz, Spain
 - Genetic and Evolutionary Computation Conference GECCO-2026 - EML PC Member, July 13 - 17, 2026, San José, Costa Rica
 - 18th International Conference on Computational Collective Intelligence (ICCI 2026),23-25 September 2026, Heraklion, Greece
-- 18th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2025), 13-15 April 2026, Kaohsiung, Taiwan
+- 18th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2026), 13-15 April 2026, Kaohsiung, Taiwan
 - 17th International Conference on Grammatical Inference (ICGI 2026), TU Delft, the Netherlands
 - 17th International Conference on Computational Collective Intelligence (ICCCI 2025), Tokushima, Japan from June 27-29, 2025
 - 17th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2025), 23-25 April; Kitakyushu, Japan
